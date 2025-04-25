@@ -61,4 +61,4 @@ jobs:
           app-name: 'kirwebapp'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_806BDF4B99C744F895B9E157C26688E8 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0AB43F69C74648EFA9D69F57CFFAEAA0 }}
