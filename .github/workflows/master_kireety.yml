@@ -55,4 +55,4 @@ jobs:
           app-name: 'kireety'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_091CEB56B7C4478391948E69E6F6A946 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9FEDC828FFDE47BA8CAC92A8F4746E4D }}
